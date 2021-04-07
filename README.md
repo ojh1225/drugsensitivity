@@ -12,3 +12,5 @@ A random forest model was built on each paired cluster of cell lines and drugs t
 ## Data
 1. Supplement.xlsx: Detailed information of cell lines and drugs as well as clustering results are shown. 
 2. Supplement_Figures.pdf: Supplemental figures
+3. Cell_lines_WD.xlsx: Wasserstein distance matrix of cell lines
+4. Drug_WD.xlsx: Wasserstein distance matrix of drugs
