@@ -11,3 +11,4 @@ A random forest model was built on each paired cluster of cell lines and drugs t
 
 Data
 1. Supplement.xlsx: Detailed information of cell lines and drugs as well as clustering results are shown. 
+2. Supplement_Figures.pdf: Supplemental figures
