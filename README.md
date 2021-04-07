@@ -9,6 +9,6 @@ For clustering of cell lines, the gene expression profiles for 915 cell lines we
 A random forest model was built on each paired cluster of cell lines and drugs to predict drug responses in log(IC50) values. <br /> <br />
 
 
-Data
+## Data
 1. Supplement.xlsx: Detailed information of cell lines and drugs as well as clustering results are shown. 
 2. Supplement_Figures.pdf: Supplemental figures
